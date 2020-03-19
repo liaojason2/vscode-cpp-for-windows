@@ -60,7 +60,7 @@ tags: computer
  
 - 在桌面上隨意新增資料夾</br>
 ![](https://i.imgur.com/Dcp8Qrq.jpg)
-- 進入 repository 主頁，選擇 Clone or Download --> Download ZIP
+- [進入 repository 主頁](https://github.com/liaojason2/vscode-cpp-for-windows)，選擇 Clone or Download --> Download ZIP
 - 或在終端機輸入 `git clone https://github.com/liaojason2/vscode-cpp-for-windows.git`
 ![](https://i.imgur.com/C1S8tnc.jpg)
 - 在剛剛在桌面上的資料夾中新增 .vscode 資料夾
@@ -80,7 +80,7 @@ tags: computer
 
 ## 注意事項
 - .vscode 必須與要編譯的檔案在同一個資料夾或是任一上層目錄
-- vscode 必須以資料夾方式開啟才能編譯，即使是只寫一個也一樣
+- vscode 必須以資料夾方式開啟才能編譯，即使是只寫一個檔案也一樣
 
 
 

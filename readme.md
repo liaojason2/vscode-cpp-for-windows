@@ -27,11 +27,11 @@ tags: computer
 ## MinGW 安裝
 - [進入 MinGW 下載頁面選取 mingw-get-setup.exe (檔案會自動下載)](https://zh-tw.osdn.net/projects/mingw/releases/68260)
 ![](https://i.imgur.com/iQX86Gm.jpg)
-- 開啟下載下來的程式，選擇下一步
+- 開啟下載下來的程式，選擇下一步</br>
 ![](https://i.imgur.com/4NaWJd6.jpg)
 - 選擇安裝位置後繼續 (與描述檔有關，除非你知道怎麼弄否則不要動)
 ![](https://i.imgur.com/gEoE7YR.jpg)
-- 安裝畫面
+- 安裝畫面</br>
 ![](https://i.imgur.com/h2GcYTj.jpg)
 - 安裝完後會啟動 MinGW Installer Manager，找到 mingw32-gcc-g++-bin 點取左方窗格，選擇 Mark for Installation
 ![](https://i.imgur.com/8XHfFuj.jpg)
@@ -39,24 +39,24 @@ tags: computer
 ![](https://i.imgur.com/VDEuDnY.jpg)
 - 選擇 Installation --> Apply Change
 ![](https://i.imgur.com/EJWDEhB.jpg)
-- 點選 Apply
+- 點選 Apply</br>
 ![](https://i.imgur.com/rRpfnKk.jpg)
-- 安裝中，安裝完成後點選 Close
+- 安裝中，安裝完成後點選 Close</br>
 ![](https://i.imgur.com/J9Aq2Gd.jpg)
 - 開啟檔案總管 --> 電腦 --> 內容
 ![](https://i.imgur.com/EfaLPFX.jpg)
 - 選取左側進階系統設定
 ![](https://i.imgur.com/oJSvCZw.jpg)
-- 選擇環境變數
+- 選擇環境變數</br>
 ![](https://i.imgur.com/AtPQmFO.jpg)
-- 在下面的系統變數找到 Path
+- 在下面的系統變數找到 Path</br>
 ![](https://i.imgur.com/VBFVONm.jpg)
-- 新增 C:\MinGW\bin 點選確定
+- 新增 C:\MinGW\bin 點選確定</br>
 ![](https://i.imgur.com/YvtKYnt.jpg)
 
 ## 開始撰寫 C/C++
  
-- 在桌面上隨意新增資料夾
+- 在桌面上隨意新增資料夾</br>
 ![](https://i.imgur.com/Dcp8Qrq.jpg)
 - 進入 repository 主頁，選擇 Clone or Download --> Download ZIP
 ![](https://i.imgur.com/C1S8tnc.jpg)
@@ -65,7 +65,7 @@ tags: computer
 ![](https://i.imgur.com/2zdy42E.jpg)
 - 解壓縮後從下載下來的東西加入畫面中(畫面的四個檔案)
 ![](https://i.imgur.com/BcY9RcU.jpg)
-- 在桌面上對資料夾點選右鍵，選擇以 Code 開始
+- 在桌面上對資料夾點選右鍵，選擇以 Code 開始</br>
 ![](https://i.imgur.com/1skI6aw.png)
 - 點選資料按鈕新增檔案，取完檔名後開始輸入程式
 ![](https://i.imgur.com/xmqmfvg.jpg)

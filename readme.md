@@ -22,11 +22,13 @@ tags: computer
 - 安裝 C/C++
 ![](https://i.imgur.com/PRhX65n.jpg)
 - 安裝 C++ Intellisense
-![](https://i.imgur.com/GX629dC.jpg)
+    - 照片好像放錯了
 - VSCode安裝在這邊結束
 
 ## MinGW 安裝
 - [進入 MinGW 下載頁面選取 mingw-get-setup.exe (檔案會自動下載)](https://zh-tw.osdn.net/projects/mingw/releases/68260)
 ![](https://i.imgur.com/iQX86Gm.jpg)
+
+- 上課中等一下補完
 
     

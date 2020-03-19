@@ -4,6 +4,8 @@ tags: computer
 ---
 # 用 VSCode 寫 C/C++ 教學
 
+- 同步發布於 https://hackmd.io/@liaojason2/vscodecppwindows
+
 ## VSCode 安裝
 - [前往 VSCode 網站下載安裝檔](https://code.visualstudio.com/)
 ![](https://i.imgur.com/PH6FOvN.png)
@@ -59,8 +61,8 @@ tags: computer
 - 在桌面上隨意新增資料夾</br>
 ![](https://i.imgur.com/Dcp8Qrq.jpg)
 - 進入 repository 主頁，選擇 Clone or Download --> Download ZIP
-![](https://i.imgur.com/C1S8tnc.jpg)
 - 或在終端機輸入 `git clone https://github.com/liaojason2/vscode-cpp-for-windows.git`
+![](https://i.imgur.com/C1S8tnc.jpg)
 - 在剛剛在桌面上的資料夾中新增 .vscode 資料夾
 ![](https://i.imgur.com/2zdy42E.jpg)
 - 解壓縮後從下載下來的東西加入畫面中(畫面的四個檔案)
@@ -72,9 +74,13 @@ tags: computer
 - 輸入 `Ctrl+Shift+B` 進行編譯
 ![](https://i.imgur.com/vtZkxvr.jpg)
 - 輸入 Ctrl+Shift+\` 開啟終端機
-- ![](https://i.imgur.com/bQCwKAh.jpg)
+![](https://i.imgur.com/bQCwKAh.jpg)
 - 輸入 `./<檔名>.exe`+`Enter`執行程式
-- ![](https://i.imgur.com/MCajNUu.jpg)
+![](https://i.imgur.com/MCajNUu.jpg)
+
+## 注意事項
+- .vscode 必須與要編譯的檔案在同一個資料夾或是任一上層目錄
+- vscode 必須以資料夾方式開啟才能編譯，即使是只寫一個也一樣
 
 
 

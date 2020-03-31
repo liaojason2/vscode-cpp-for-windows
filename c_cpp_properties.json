@@ -18,7 +18,7 @@
             "browse": {
                 "path": [
                     "${workspaceRoot}",
-                    "C:\\MinGW\\mingw64\\include",
+                    "C:\\MinGW\\include",
                     "C:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include",
                     "C:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include\\c++"
                 ],
